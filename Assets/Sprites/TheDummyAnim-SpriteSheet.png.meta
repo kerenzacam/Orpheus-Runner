@@ -307,7 +307,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -321,7 +321,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -345,7 +345,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -373,12 +373,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 639
-        width: 17
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 640
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 639
-        width: 17
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 87
+        y: 640
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 150
-        y: 639
-        width: 17
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 151
+        y: 640
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -439,12 +439,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 214
-        y: 639
-        width: 17
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 215
+        y: 640
+        width: 15
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,12 +461,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 19
-        y: 575
-        width: 31
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 20
+        y: 576
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -483,12 +483,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 83
-        y: 575
-        width: 30
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 84
+        y: 576
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,12 +505,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 147
-        y: 575
-        width: 30
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 148
+        y: 576
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 211
-        y: 575
-        width: 30
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 212
+        y: 576
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,12 +549,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 17
-        y: 511
-        width: 38
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 18
+        y: 512
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -571,12 +571,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 78
-        y: 511
-        width: 31
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 79
+        y: 512
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,12 +593,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 137
-        y: 511
-        width: 32
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 138
+        y: 512
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -615,12 +615,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 201
-        y: 511
-        width: 53
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 202
+        y: 512
+        width: 51
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -637,12 +637,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_12
       rect:
         serializedVersion: 2
-        x: 274
-        y: 511
-        width: 44
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 275
+        y: 512
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -659,12 +659,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_13
       rect:
         serializedVersion: 2
-        x: 337
-        y: 511
-        width: 26
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 338
+        y: 512
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -681,12 +681,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_14
       rect:
         serializedVersion: 2
-        x: 401
-        y: 511
-        width: 24
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 402
+        y: 512
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -700,191 +700,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_15
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 447
-        width: 21
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9709f0bde21194870800000000000000
-      internalID: 8667477850792628345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_16
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 483
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5648886b860dac310800000000000000
-      internalID: 1426181380173759589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_17
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 481
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48af03f6aaa7440f0800000000000000
-      internalID: -1133646333762012540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_18
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 482
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df4b25cead9a9e720800000000000000
-      internalID: 2876016594785580285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_19
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 447
-        width: 22
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9623d7e6692f7da40800000000000000
-      internalID: 5393045806712173161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_20
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 483
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17589a77573b10a80800000000000000
-      internalID: -8502317304398641807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_21
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 483
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a215f66d890de36b0800000000000000
-      internalID: -5314581155399380694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TheDummyAnim-SpriteSheet_22
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 481
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08255399b747b40e0800000000000000
-      internalID: -2284604311760186752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TheDummyAnim-SpriteSheet_23
       rect:
         serializedVersion: 2
-        x: 413
-        y: 482
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 448
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -901,12 +725,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_24
       rect:
         serializedVersion: 2
-        x: 472
-        y: 447
-        width: 17
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 82
+        y: 448
+        width: 25
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -923,12 +747,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_25
       rect:
         serializedVersion: 2
-        x: 478
-        y: 484
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 151
+        y: 448
+        width: 17
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -945,12 +769,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_26
       rect:
         serializedVersion: 2
-        x: 81
-        y: 447
-        width: 26
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 215
+        y: 448
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -967,12 +791,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_27
       rect:
         serializedVersion: 2
-        x: 150
-        y: 447
-        width: 15
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 277
+        y: 448
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -989,12 +813,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_28
       rect:
         serializedVersion: 2
-        x: 276
-        y: 447
+        x: 338
+        y: 448
         width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1011,12 +835,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_29
       rect:
         serializedVersion: 2
-        x: 337
-        y: 447
-        width: 26
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 404
+        y: 448
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1033,12 +857,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_30
       rect:
         serializedVersion: 2
-        x: 403
-        y: 447
-        width: 23
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 473
+        y: 448
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1055,12 +879,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_31
       rect:
         serializedVersion: 2
-        x: 20
-        y: 383
-        width: 29
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 21
+        y: 384
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1077,12 +901,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_32
       rect:
         serializedVersion: 2
-        x: 84
-        y: 383
-        width: 24
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 85
+        y: 384
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1099,12 +923,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_33
       rect:
         serializedVersion: 2
-        x: 153
-        y: 383
-        width: 19
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 154
+        y: 384
+        width: 17
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1121,12 +945,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_34
       rect:
         serializedVersion: 2
-        x: 214
-        y: 383
-        width: 23
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 215
+        y: 384
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1143,12 +967,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_35
       rect:
         serializedVersion: 2
-        x: 273
-        y: 383
-        width: 30
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 274
+        y: 384
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1165,12 +989,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_36
       rect:
         serializedVersion: 2
-        x: 334
-        y: 387
-        width: 39
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 335
+        y: 388
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1187,12 +1011,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_37
       rect:
         serializedVersion: 2
-        x: 400
-        y: 383
-        width: 31
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 401
+        y: 384
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1209,12 +1033,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_38
       rect:
         serializedVersion: 2
-        x: 470
-        y: 383
-        width: 22
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 471
+        y: 384
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1231,12 +1055,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_39
       rect:
         serializedVersion: 2
-        x: 536
-        y: 383
-        width: 21
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 537
+        y: 384
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1253,12 +1077,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_40
       rect:
         serializedVersion: 2
-        x: 596
-        y: 383
-        width: 26
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 597
+        y: 384
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1275,12 +1099,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_41
       rect:
         serializedVersion: 2
-        x: 657
-        y: 387
-        width: 33
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 658
+        y: 388
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1297,12 +1121,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_42
       rect:
         serializedVersion: 2
-        x: 21
-        y: 319
-        width: 31
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 22
+        y: 320
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1319,12 +1143,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_43
       rect:
         serializedVersion: 2
-        x: 86
-        y: 319
-        width: 31
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 87
+        y: 320
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1341,12 +1165,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_44
       rect:
         serializedVersion: 2
-        x: 143
-        y: 320
-        width: 38
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 321
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1363,12 +1187,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_45
       rect:
         serializedVersion: 2
-        x: 206
-        y: 319
-        width: 39
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 207
+        y: 320
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1385,12 +1209,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_46
       rect:
         serializedVersion: 2
-        x: 274
-        y: 319
-        width: 33
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 275
+        y: 320
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1407,12 +1231,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_47
       rect:
         serializedVersion: 2
-        x: 341
-        y: 319
-        width: 32
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 342
+        y: 320
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1429,12 +1253,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_48
       rect:
         serializedVersion: 2
-        x: 403
-        y: 320
-        width: 37
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 404
+        y: 321
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1451,12 +1275,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_49
       rect:
         serializedVersion: 2
-        x: 466
-        y: 319
-        width: 31
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 467
+        y: 320
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1473,12 +1297,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_50
       rect:
         serializedVersion: 2
-        x: 22
-        y: 255
-        width: 17
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 256
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1495,12 +1319,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_51
       rect:
         serializedVersion: 2
-        x: 84
-        y: 255
-        width: 22
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 85
+        y: 256
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1517,12 +1341,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_52
       rect:
         serializedVersion: 2
-        x: 140
-        y: 255
-        width: 28
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 141
+        y: 256
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1539,12 +1363,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_53
       rect:
         serializedVersion: 2
-        x: 208
-        y: 255
-        width: 38
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 209
+        y: 256
+        width: 36
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1561,12 +1385,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_54
       rect:
         serializedVersion: 2
-        x: 271
-        y: 255
-        width: 39
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 272
+        y: 256
+        width: 37
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1583,12 +1407,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_55
       rect:
         serializedVersion: 2
-        x: 335
-        y: 255
-        width: 39
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 336
+        y: 256
+        width: 37
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1605,12 +1429,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_56
       rect:
         serializedVersion: 2
-        x: 398
-        y: 255
-        width: 37
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 399
+        y: 256
+        width: 35
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1627,12 +1451,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_57
       rect:
         serializedVersion: 2
-        x: 460
-        y: 255
-        width: 28
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 461
+        y: 256
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1649,12 +1473,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_58
       rect:
         serializedVersion: 2
-        x: 524
-        y: 255
-        width: 28
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 525
+        y: 256
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1671,12 +1495,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_59
       rect:
         serializedVersion: 2
-        x: 20
-        y: 191
-        width: 26
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 21
+        y: 192
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1693,12 +1517,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_60
       rect:
         serializedVersion: 2
-        x: 84
-        y: 191
-        width: 24
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 85
+        y: 192
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1715,12 +1539,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_61
       rect:
         serializedVersion: 2
-        x: 145
-        y: 191
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 146
+        y: 192
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1737,12 +1561,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_62
       rect:
         serializedVersion: 2
-        x: 216
-        y: 202
-        width: 19
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 217
+        y: 203
+        width: 17
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1759,12 +1583,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_63
       rect:
         serializedVersion: 2
-        x: 276
-        y: 210
-        width: 25
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 277
+        y: 211
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1781,12 +1605,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_64
       rect:
         serializedVersion: 2
-        x: 338
-        y: 214
-        width: 31
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 215
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1803,12 +1627,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_65
       rect:
         serializedVersion: 2
-        x: 403
-        y: 201
-        width: 32
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 404
+        y: 202
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1825,12 +1649,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_66
       rect:
         serializedVersion: 2
-        x: 468
-        y: 191
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 469
+        y: 192
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1847,12 +1671,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_67
       rect:
         serializedVersion: 2
-        x: 20
-        y: 127
-        width: 26
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 21
+        y: 128
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1869,12 +1693,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_68
       rect:
         serializedVersion: 2
-        x: 215
-        y: 136
-        width: 26
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 216
+        y: 137
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1891,12 +1715,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_69
       rect:
         serializedVersion: 2
-        x: 285
-        y: 155
-        width: 19
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 286
+        y: 156
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1913,12 +1737,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_70
       rect:
         serializedVersion: 2
-        x: 338
-        y: 167
-        width: 32
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 168
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1935,12 +1759,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_71
       rect:
         serializedVersion: 2
-        x: 413
-        y: 153
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 414
+        y: 154
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1957,12 +1781,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_72
       rect:
         serializedVersion: 2
-        x: 466
-        y: 152
-        width: 33
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 467
+        y: 153
+        width: 31
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1979,12 +1803,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_73
       rect:
         serializedVersion: 2
-        x: 529
-        y: 135
-        width: 26
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 530
+        y: 136
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2001,12 +1825,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_74
       rect:
         serializedVersion: 2
-        x: 84
-        y: 127
-        width: 24
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 85
+        y: 128
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2023,12 +1847,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_75
       rect:
         serializedVersion: 2
-        x: 145
-        y: 127
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 146
+        y: 128
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2045,12 +1869,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_76
       rect:
         serializedVersion: 2
-        x: 22
-        y: 63
-        width: 17
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 64
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2067,12 +1891,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_77
       rect:
         serializedVersion: 2
-        x: 76
-        y: 63
-        width: 36
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 77
+        y: 64
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2089,12 +1913,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_78
       rect:
         serializedVersion: 2
-        x: 138
-        y: 63
-        width: 36
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 139
+        y: 64
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2111,12 +1935,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_79
       rect:
         serializedVersion: 2
-        x: 204
-        y: 63
-        width: 25
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 205
+        y: 64
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2133,12 +1957,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_80
       rect:
         serializedVersion: 2
-        x: 273
-        y: 63
-        width: 18
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 274
+        y: 64
+        width: 16
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2155,12 +1979,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_81
       rect:
         serializedVersion: 2
-        x: 342
-        y: 63
-        width: 22
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 343
+        y: 64
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2177,12 +2001,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_82
       rect:
         serializedVersion: 2
-        x: 406
-        y: 63
-        width: 22
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 407
+        y: 64
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2199,12 +2023,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_83
       rect:
         serializedVersion: 2
-        x: 470
-        y: 63
-        width: 19
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 471
+        y: 64
+        width: 17
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2221,12 +2045,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_84
       rect:
         serializedVersion: 2
-        x: 22
+        x: 23
         y: 0
-        width: 17
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2243,12 +2067,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_85
       rect:
         serializedVersion: 2
-        x: 86
+        x: 87
         y: 0
-        width: 20
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2265,12 +2089,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_86
       rect:
         serializedVersion: 2
-        x: 135
+        x: 136
         y: 0
-        width: 47
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2287,12 +2111,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_87
       rect:
         serializedVersion: 2
-        x: 197
+        x: 198
         y: 0
-        width: 43
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 41
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2309,12 +2133,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_88
       rect:
         serializedVersion: 2
-        x: 261
+        x: 262
         y: 0
-        width: 50
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2331,12 +2155,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_89
       rect:
         serializedVersion: 2
-        x: 325
+        x: 326
         y: 0
-        width: 50
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2353,12 +2177,12 @@ TextureImporter:
       name: TheDummyAnim-SpriteSheet_90
       rect:
         serializedVersion: 2
-        x: 389
+        x: 390
         y: 0
-        width: 50
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2375,7 +2199,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bc9f4cb2b3ea5bd4d8f5251175645d16
     internalID: 0
     vertices: []
     indices: 
@@ -2383,7 +2207,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       TheDummyAnim-SpriteSheet_0: 3895458510913529188
       TheDummyAnim-SpriteSheet_1: -2451897036165301758

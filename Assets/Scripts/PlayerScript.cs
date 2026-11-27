@@ -2,23 +2,44 @@ using UnityEngine;
 
 public class PlayerScript : MonoBehaviour
 {
-    float horizontalInput;
-    float moveSpeed = 5f;
-    bool isFacingRight = true;
-
-    Rigidbody2D rb;
+    private float horizontalInput;
+    private float moveSpeed = 7f;
+    private float jumpPower = 8f;
+    private bool isFacingRight = true;
+    private bool isJumping = false;
+    private Rigidbody2D rb;
+    private SpriteRenderer sr;
+    private Animator anim;
+    private DoubtMeter doubtMeter;
+    [SerializeField] private float doubtPerSecond = 10f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
+        doubtMeter = FindFirstObjectByType<DoubtMeter>();
     }
 
     // Update is called once per frame
     void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
+        if(Input.GetButtonDown("Jump") && !isJumping)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            isJumping = true;
+        }
         FlipSprite();
+        float xSpeed = rb.linearVelocity.x;
+        anim.SetFloat("Speed", Mathf.Abs(xSpeed));
+        anim.SetBool("IsJumping", isJumping);
+        //if player is looking left increse doubt
+        if (!isFacingRight && doubtMeter != null)
+        {
+            doubtMeter.AddDoubt(doubtPerSecond * Time.deltaTime);
+        }
     }
 
     private void FixedUpdate()
@@ -36,4 +57,10 @@ public class PlayerScript : MonoBehaviour
             transform.localScale = ls;
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+{
+    isJumping = false;
+}
+
 }
